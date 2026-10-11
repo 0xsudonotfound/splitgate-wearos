@@ -2,7 +2,7 @@
 
 **English** · [Türkçe](README.tr.md)
 
-A DPI bypass app for Android that does not need root.
+A DPI bypass app for WearOS that does not need root.
 It sets up a local "fake VPN" with `VpnService`. Your traffic is not routed through any other server; it is
 processed on the phone and goes out normally. Only the DNS lookups go to the DoH provider you pick.
 
